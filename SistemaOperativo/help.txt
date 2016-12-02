@@ -1,0 +1,30 @@
+inc-Sirve para incrementar una variable en 1, su sintaxis es  [inc] [variable]
+dec-Sirve para decrementar una variable en 1, su sintaxis es  [inc] [variable]
+prompt-Cambia el texto de tu prompt, la sintaxis [prompt] [Texto] te devolvera el texto ingresado, la sintaxis [prompt] te devolvera la ruta del proyecto.
+bye-Salir del SO
+BYE-Salir del SO
+makeVar-Crear una variable, la sintaxis [makeVar] [NombreVariable] [valor] asignara al NombreVariable el valor introducido, la sintaxis [makeVar] [NombreVariable] creara una variable y le asignara el valor de 0.
+changeVar-Cambia el valor de una variable existente, la sintaxis es [changeVar] [Variable] [valor/variable]
+lsVar-Enlista las variables o variable y sus valores, la sintaxis [lsVar] te devolvera todas las variables y valores, la sintaxis [lsVar] [Variable] te devolvera la variable ingresada y su valor.
+Suma-Te muestra la suma de dos valores o variables, su sintaxis es [Suma] [valor/variable] [valor/variable]
+Resta-Te muestra la resta de dos valores o variables, su sintaxis es [Resta] [valor/variable] [valor/variable]
+Multiplicacion-Te muestra la multiplicacion de dos valores o variables, su sintaxis es [Multiplicacion] [valor/variable] [valor/variable]
+Division-Te muestra la division de dos valores o variables, su sintaxis es [Division] [valor/variable] [valor/variable]
+Modulo-Te muestra la modulo de dos valores o variables, su sintaxis es [Modulo] [valor/variable] [valor/variable]
+help-Muestra los comandos y su funcion.
+pot-Regresa la potencia de un numero.
+vabs-Regresa el valor absoluto de un numero con punto decimal.
+seno-Regresa el seno en radianes
+cos-Regresa el coseno en radianes
+tan-Regresa la tangente en radianes
+atang-Regresa el arcotangente en radianes
+piramide-Imprime en pantalla una piramide dependiendo de los valores que le des.
+noletras-Te dice cuantas letras tiene una palabra que le pases como parametro.
+sinvoc-Te regresa tu palabra que le pases como parametro sin vocales.
+sincon-Te regresa tu palabra que le pases como parametro sin consonantes.
+numlet-Te regresa todas las letras que contiene tu palabra y cuantas veces cada una.
+clock-Te regresa la hora del dia.
+date- Te regresa el dia de hoy.
+compare-Te dice cual numero es mayor.
+showImage-Mostrar imagen
+dir-Muestra los archivos en la carpeta donde se ejecuta el programa.

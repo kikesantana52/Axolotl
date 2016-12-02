@@ -1,0 +1,7 @@
+UNIVA,8000.0
+palomino,10.0
+kike,8000.0
+kakaroto,1.0
+INEGI,-1.0
+k,0.0
+juan,0.0
